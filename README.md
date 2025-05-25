@@ -92,15 +92,15 @@ Subtitle Sphere is perfect for:
 
 Subtitle Sphere combines several powerful Python libraries under the hood:
 
-• **OpenAI Whisper** – for local transcription using speech recognition models.
-• **gTTS (Google Text-to-Speech)** – interface to Google’s TTS.
-• **Deep-Translate** – access to Google Translate APIs.
-• **edge-tts** – Microsoft Edge text-to-speech support.
-• **Demucs** – vocal/instrument separation from audio.
-• **OpenAI.fm (fairy-root/ComfyUI-OpenAI-FM)** – expressive AI narration via Ope-
+* **OpenAI Whisper** – for local transcription using speech recognition models.
+* **gTTS (Google Text-to-Speech)** – interface to Google’s TTS.
+* **Deep-Translate** – access to Google Translate APIs.
+* **edge-tts** – Microsoft Edge text-to-speech support.
+* **Demucs** – vocal/instrument separation from audio.
+* **OpenAI.fm (fairy-root/ComfyUI-OpenAI-FM)** – expressive AI narration via Ope-
 nAI API.
-• **yt-dlp** – download and extract media from YouTube.
-• **youtube transcript api** – fetch YouTube video subtitles.
+* **yt-dlp** – download and extract media from YouTube.
+* **youtube transcript api** – fetch YouTube video subtitles.
 You do **not** need to install or configure Python—everything is packaged and ready-to-use.
 
 All of the aforementioned libraries and repositories are open-source projects maintained independently by their original developers. None of these libraries are developed, maintained,modified, or endorsed by us. This software simply provides a user-friendly GUI interface that allows users to access their functionalities without needing to use Python or command-line interfaces directly.
