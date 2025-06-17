@@ -21,10 +21,11 @@ See the [Instructions](https://www.subtitlesphere.com/instructions) page or use 
 
 ## ✨ Highlights
 
-* **No subscription, no sign-up, no credit card required.**
+* **No expensive monthly subscription, no sign-up, no credit card required.**
 * **Fully offline functionality** for transcription and subtitling—no cloud dependency.
 * **Certain features require an internet connection** (e.g., translation, AI voice narration, and importing content from URLs)—but nothing is sent to the cloud.
 * **Secure, private, and user-friendly**—ideal for individuals and professionals alike.
+* **Starting with version 7.0.0, Subtitle Sphere is only available to our YouTube subscribers**. Verification is done locally during installation—no tracking, no cloud accounts.
 
 ---
 
@@ -100,7 +101,7 @@ device and the selected API provider.
   * Translation: gpt-4o-mini, gpt-4o
 * **Google Gemini:**
   * Voice generation (TTS): gemini-2.5-flash-preview-tts
-  * Translation: gemini-2.5-flash-preview-05-20
+  * Translation: gemini-2.0-flash
  
 ### Important Usage Notes:
 * Subtitle Sphere does not supply or store any API keys. Users must provide their own and are fully responsible for managing access, usage, and billing with OpenAI and Google.
@@ -132,7 +133,8 @@ Subtitle Sphere combines several powerful Python libraries under the hood:
 * **youtube transcript api** – fetch YouTube video subtitles.
 * **gemini srt translator** – using the third-party **MaKTaiL/gemini-srt-translator** GitHub implementation to provide translation via the official Google Gemini API.
 * **OpenAI GPT API** – official API used for translation and TTS via gpt-4o and gpt-4o-mini-tts models.
-* **Google Gemini API** – official API used for translation and TTS via gemini-2.5-flash-preview models.
+* **Google Gemini API** – official API used for translation and TTS via gemini-2.0-flash models.
+* **Chatterbox (Resemble AI)** – using the third-party **Chatterbox (Resemble AI)** GitHub implementation to provide voice cloning.
 
 You do **not** need to install or configure Python—everything is packaged and ready-to-use.
 
