@@ -1,4 +1,4 @@
-# Subtitle Sphere: Free Offline App for Transcription, Translation, AI Narration, Subtitling, Vocal Removal & More
+# Subtitle Sphere: Free Desktop App for Transcription, Translation, AI Narration, Subtitling, Vocal Removal & More
 
 Subtitle Sphere is a powerful, completely free-to-use application that offers unlimited functionality while keeping your data secure and respecting your privacy. Whether you're working offline or online, Subtitle Sphere has you covered—from basic transcription to advanced AI-powered voice narration and translation.
 
