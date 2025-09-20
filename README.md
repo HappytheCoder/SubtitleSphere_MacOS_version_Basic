@@ -10,12 +10,12 @@ Subtitle Sphere is a powerful, completely free-to-use application that offers un
 
 ### Installation
 
-1. Download the installer for your operating system.
+1. Download the installer for your operating system for our official website.
 2. Follow the installation instructions included in the downloaded folder.
 
 ### Getting Started
 
-See the [Instructions](https://www.subtitlesphere.com/instructions) page or use the in-app **Help & Tutorials** for walkthroughs and best practices.
+See the [Instructions](https://www.subtitlesphere.com/instructions) page for walkthroughs and best practices.
 
 ---
 
